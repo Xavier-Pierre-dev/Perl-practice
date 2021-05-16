@@ -1,6 +1,6 @@
 # 🚀 Perl practice 🚀
 
-![Alt text](./logo.JPG "logo perl")
+![Alt text](./logo.jpg "logo perl")
 ## __Why this repository :__
 In this repository, i'm just learning Perl basics and usefull thing inside Perl by praticing and using multiple sources. 
 
