@@ -20,6 +20,7 @@ So this repository cover a part of the method and usefull synthax for the follow
 * CGI Programming
 * Process management
 * Embeded documentation
+* Error handling
 
 ### __Youtube sources :__
 * Derek Banas __(EN coontent)__ : https://www.youtube.com/results?search_query=vscode+perl
